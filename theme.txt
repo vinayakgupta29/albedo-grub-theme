@@ -1,5 +1,5 @@
 # Main options
-title-text: ""
+title-text: "ALBEDO"
 desktop-image: "background.png"
 desktop-color: "#000000"
 terminal-font: "Terminus Regular 16"
